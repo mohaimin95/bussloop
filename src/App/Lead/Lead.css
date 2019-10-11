@@ -1,0 +1,37 @@
+.buss-card {
+    margin: 12px;
+}
+
+.buss-name {
+    width: 100%;
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+    font-weight: bold;
+}
+.buss-location {
+    text-transform: capitalize;
+    font-size: 12px;
+}
+.card-title {
+    padding: 12px;
+}
+.buss-wish {
+    position: absolute;
+    right: 5%;
+    text-align: right;
+}
+.buss-like {
+    color:red;
+    cursor: pointer;
+}
+.buss-bookmark {
+    color:green;
+    cursor: pointer;
+}
+.buss-unlike {
+    cursor: pointer;
+}
+.buss-unbookmark {
+    cursor: pointer;
+}
+

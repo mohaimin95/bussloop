@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    overflow-x:hidden;
+}
+.clearfix {
+    margin-bottom: 12px;
+}
+.form-element {
+    margin-bottom: 12px;
+}
+.bg-transperant {
+    background: transparent !important;
+}
+.btn-default {
+    background-color: #572663 !important;
+    color: #fff !important;
+}
+.form-control {
+    border-radius: 0 !important;
+}

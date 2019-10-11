@@ -1,0 +1,16 @@
+.bg-default {
+    background-color: #572663 !important;
+}
+.search-bar {
+    width: 40%;
+}
+.input-group-text {
+    background-color: #fff !important;
+    color: #572663 !important;
+    border: 0;
+    border-radius: 0 !important;
+}
+.input-group-text > input[type='text'] {
+    justify-content: right;
+    text-align: right;
+}
